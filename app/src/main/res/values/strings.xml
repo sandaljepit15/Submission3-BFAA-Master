@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Submission 3</string>
+    <string name="search">Search</string>
+    <string name="search_hint">search</string>
+    <string name="no_result">No Result</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="location">location</string>
+    <string name="_0">0</string>
+    <string name="repository">repository</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="carrier">carrier</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="btnlove">btnlove</string>
+    <string name="favorite">Favorite</string>
+    <string name="lable_setting">Setting</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="theme">theme</string>
+    <string name="key_name">tes</string>
+    <string name="nothing">tes</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="image_splash">Image Splash</string>
+    <string name="github_user">Github User</string>
+</resources>

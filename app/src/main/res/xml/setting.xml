@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <SwitchPreferenceCompat
+            android:icon="@drawable/ic_baseline_brightness_4_24"
+            app:key="@string/theme"
+            app:title="@string/dark_mode"
+            app:summaryOn="Dark Mode On"
+            app:summaryOff="Dark Mode Off"/>
+</PreferenceScreen>
